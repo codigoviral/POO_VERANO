@@ -9,11 +9,24 @@ PROCESO PARA CONNECTAR
           "USUARIO"
 
 
-        PYTHON                                  ----------                           --------
-                                                 COMUNA                             PERSONA
-                                                ----------                           --------
-                                                ID   INT    "PK"     ---------->     
-                                                NOMBRE VARCHAR(50)  
+        PYTHON 
+
+
+
+
+
+
+
+
+
+----------                          -------
+COMUNA                             PERSONA
+----------                         --------
+ID   INT    "PK"     ---------->     
+                                 NOMBRE VARCHAR(50)  
+
+
+
 
 
 
