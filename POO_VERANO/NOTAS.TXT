@@ -1,0 +1,21 @@
+POO. CON SERVICIOS 
+        ARCHIVOS
+        BASES DE DATOS
+        R.P.C. (WEBSERVICES-API) REMOTE PROCEDURE CALL "HTTP://MIALGO.CL/CATALOGO"
+        MENSAGERÍA
+
+PROCESO PARA CONNECTAR
+          CONNECTARSE LOCALHOST : 3306
+          "USUARIO"
+
+
+        PYTHON                                  ----------                           --------
+                                                 COMUNA                             PERSONA
+                                                ----------                           --------
+                                                ID   INT    "PK"     ---------->     
+                                                NOMBRE VARCHAR(50)  
+
+
+
+
+                                                
